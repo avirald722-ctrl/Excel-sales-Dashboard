@@ -1,4 +1,4 @@
- 📊 Excel Sales Dashboard Project
+  Excel Sales Dashboard Project
 
  🔹 Project Overview
 This project is an interactive Excel dashboard created to analyze monthly sales performance.
